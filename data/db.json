@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "img": "https://coverr.co/cdn-cgi/imagedelivery/BeFsi1Bg3dy52sAQw9oTPw/61349d76-d716-46ec-2624-d36141ae1c00/360p",
+      "name": "A guy watching a football game on his TV",
+      "url": "https://cdn.coverr.co/videos/coverr-a-guy-watching-a-football-game-on-his-tv-2021/1080p.mp4"
+    },
+    {
+      "id": 2,
+      "img": "https://coverr.co/cdn-cgi/imagedelivery/BeFsi1Bg3dy52sAQw9oTPw/f336a72a-d097-4e8f-889b-0e36f4133c00/360p",
+      "name": "Preparing for online yoga classes",
+      "url": "https://cdn.coverr.co/videos/coverr-preparing-for-online-yoga-classes-8054/1080p.mp4"
+    },
+    {
+      "id": 3,
+      "img": "https://coverr.co/cdn-cgi/imagedelivery/BeFsi1Bg3dy52sAQw9oTPw/6e33ff50-9b0b-4500-70bd-12c0bc2f4900/360p",
+      "name": "Rear view of a Porsche GT3",
+      "url": "https://cdn.coverr.co/videos/coverr-rear-view-of-a-porsche-gt3-3421/1080p.mp4"
+    }
+  ]
+}
